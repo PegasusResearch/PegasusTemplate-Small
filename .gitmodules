@@ -1,0 +1,12 @@
+[submodule "pegasus_external/src/pegasus_external"]
+	path = pegasus_external/src/pegasus_external
+	url = https://github.com/PegasusResearch/pegasus_external.git
+[submodule "pegasus/src/pegasus"]
+	path = pegasus/src/pegasus
+	url = https://github.com/PegasusResearch/pegasus.git
+[submodule "pegasus/src/pegasus_gazebo"]
+	path = pegasus/src/pegasus_gazebo
+	url = https://github.com/PegasusResearch/pegasus_gazebo.git
+[submodule "pegasus/src/pegasus_isaac"]
+	path = pegasus/src/pegasus_isaac
+	url = https://github.com/PegasusResearch/pegasus_isaac.git
